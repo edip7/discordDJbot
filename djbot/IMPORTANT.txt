@@ -1,0 +1,9 @@
+You will need FFmpeg to run this bot: 
+-this can be downloaded at: https://www.ffmpeg.org/
+
+-you will also need these python extensions: 
+-discord.py
+-youtube_dl
+-PyNaCl
+
+these can be all downloaded through your terminal with the pip install <package name> command
